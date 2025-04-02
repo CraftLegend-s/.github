@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/0db89cb8-342c-453c-8967-38fdab0d532a" alt="drawing" style="width:200px;"/>
 # CRAFTLEGENDS
-```
+```c++
 #include CraftLegends.h
 /*
 *  CraftLegend's is an italian server

@@ -5,5 +5,5 @@
 
 
 
-![image](https://github.com/user-attachments/assets/baf1c8f0-ac46-4599-86de-aa1cd5276024){: style="float:right"}
-<img src="https://github.com/user-attachments/assets/baf1c8f0-ac46-4599-86de-aa1cd5276024" alt="drawing" style="width:200px;"/>
+
+<img src="[URL_DELLA_TUA_IMMAGINE](https://github.com/user-attachments/assets/baf1c8f0-ac46-4599-86de-aa1cd5276024)" alt="Logo" width="100" height="100" style="position: fixed; bottom: 10px; right: 10px;">

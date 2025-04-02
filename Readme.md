@@ -1,4 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/0db89cb8-342c-453c-8967-38fdab0d532a" alt="drawing" style="width:200px;"/>
+## Hi there 👋
 ```c
 #include CraftLegends.h
 /*

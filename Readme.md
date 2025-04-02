@@ -11,7 +11,7 @@
 *  the CraftLegends Team
 */
 ```
-- For any issuse found on the server please report [here](https://forms.gle/Nczj4cFFNSLihrL19) or [here](https://github.com/CraftLegend-s/issus/issues/new/choose)
+- ⚡ For any issuse found on the server please report [here](https://forms.gle/Nczj4cFFNSLihrL19) or [here](https://github.com/CraftLegend-s/issus/issues/new/choose)
 ---
 
 - 🔭 If you wont to contribute please ansere here

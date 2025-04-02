@@ -14,7 +14,7 @@
 - ⚡ For any issuse found on the server please report [here](https://forms.gle/Nczj4cFFNSLihrL19) or [here](https://github.com/CraftLegend-s/issus/issues/new/choose)
 ---
 
-- 🔭 If you wont to contribute please ansere here
+- 🔭 If you wont to contribute please ansere [here](https://forms.gle/hru7Ugb2jd4xcXXt9)
 
 
 
